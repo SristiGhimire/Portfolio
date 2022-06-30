@@ -1,0 +1,93 @@
+.navibar{
+    display: flex;
+    flex-direction: row;
+    padding-left: 180px;
+}
+
+.navi{
+    padding: 14px 16px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.name{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.myname{
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.hirebutton{
+    background-color: orangered;
+    width: 90px;
+    height: 40px;
+}
+
+.hiree{
+    display: flex;
+    flex-direction: row;
+}
+
+.number{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 987;
+}
+
+.contact{
+    display: flex;
+    flex-direction: row;
+   
+}
+
+.more{
+    background-color: yellow;
+    width: 120px;
+    height: 35px;
+    
+}
+
+.placeholder{
+    padding-left: 25px;
+    justify-content: space-between ;
+}
+
+.hello{
+    display: flex;
+    flex-direction: row;
+    background-color: black;
+    text-align: center;
+}
+
+.cont{
+    padding-left: 20px;
+}
+.gmail{
+    padding-left: 80px;
+    
+}
+
+.main{
+    padding-left: 180px;
+   /* padding-top: 80px; */
+    flex: 1;
+}
+
+.p{
+    font-weight: bold;
+    color: white;
+}
+
+.image{
+    flex: 1;
+    float: right; 
+    padding-top: 40px;
+    padding-right: 200px;
+    display: block
+}
+
+.container{
+    display: ;
+}
+
